@@ -276,4 +276,4 @@ data akan terhapus
 
 - Flowchart
 
-![img.png](Picture/img3.0.png)
+![img.png](Picture/img3.0.jpg)
