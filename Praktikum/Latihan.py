@@ -5,6 +5,8 @@ telepon = {
 
 print(telepon['Ari'])
 
+print("\n")
+
 telepon['Riko'] = '087654544'
 telepon['Dina'] = '088999776'
 
@@ -16,8 +18,8 @@ print("\n")
 print("Nama\t| Nomor Telepon ")
 print("======================")
 
-for key,val in telepon.items():
-    print("%s \t| %s " % (key,val))
+for nama,nomor in telepon.items():
+    print("%s \t| %s " % (nama,nomor))
 
 print("\n")
 
